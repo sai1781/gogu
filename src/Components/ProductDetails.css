@@ -1,0 +1,19 @@
+.product_container{
+    display: flex;
+    width: 80vw;
+    height: 50vh;
+    margin-top: 150px;
+    margin-left: 50px;
+    border: 1px solid red;
+    box-shadow: 1px 2px 9px  black;
+}
+.left_panel{
+    height: 100%;
+    width: 35%;
+    background-color: rgb(104, 101, 139);
+    /* color: rgb(6, 6, 7); */
+    /* color: rgb(232, 226, 226); */
+    color: red !important;
+    display: flex;
+    flex-direction: column;
+}
